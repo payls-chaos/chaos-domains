@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "domains": [
-    { "host": "cloudgamex.vip", "priority": 28 },
+    { "host": "cloudgamex.vip", "priority": 26 },
     { "host": "cloudtourney99.cc", "priority": 27 },
     { "host": "cloud0009.com", "priority": 13 },
     { "host": "cloud0003.com", "priority": 12 },
