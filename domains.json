@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "domains": [
+    { "host": "cloudgamex.vip", "priority": 28 },
+    { "host": "cloudtourney99.cc", "priority": 27 },
+    { "host": "cloud0009.com", "priority": 13 },
+    { "host": "cloud0003.com", "priority": 12 },
+    { "host": "cloudrush88.cc", "priority": 11 },
+    { "host": "cloudbet888.com", "priority": 10 },
+    { "host": "cloudbet11.com", "priority": 9 },
+    { "host": "cloudbet13.com", "priority": 8 },
+    { "host": "cloudbet14.com", "priority": 7 },
+    { "host": "cloudbet15.com", "priority": 6 },
+    { "host": "cloudbet16.com", "priority": 5 },
+    { "host": "cloudbet17.com", "priority": 4 },
+    { "host": "cloudbet18.com", "priority": 3 },
+    { "host": "cloudbet19.com", "priority": 2 },
+    { "host": "cloud0008.com", "priority": 1 }
+  ],
+  "dohResolvers": [
+    {
+      "name": "Google",
+      "url": "https://dns.google.com/resolve",
+      "pins": []
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://1.1.1.1/dns-query",
+      "pins": []
+    },
+    {
+      "name": "Cloudflare-Alt",
+      "url": "https://1.0.0.1/dns-query",
+      "pins": []
+    }
+  ]
+}
